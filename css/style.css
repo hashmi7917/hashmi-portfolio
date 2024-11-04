@@ -353,6 +353,7 @@ h3 {
   color: #fff;
   background: #615CFD;
   border: 1px solid transparent;
+  
 }
 
 /* line 282, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/theme-default.scss */
@@ -1054,15 +1055,15 @@ h3 {
 
 /* line 124, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #D465EF;
+  background: #ffffff;
   padding: 12px 26px;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 700;
   border: 1px solid transparent;
-  color: #fff;
+  color: #2e0385;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
-  border-radius: 0px;
+  border-radius: 20px;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -3282,6 +3283,7 @@ h3 {
   height: 100%;
   text-align: center;
   background: rgba(97, 92, 253, 0.6);
+  border: 2px solid rebeccapurple;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
